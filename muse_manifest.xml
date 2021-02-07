@@ -1,0 +1,612 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="medi.com" resolutions="1x" timestamp="1612681939472">
+  <folder name="css">
+    <file name="site_global.css" crc="3892232803"/>
+    <file name="service.css" crc="3826743755" ref="service"/>
+    <file name="histopathology.css" crc="3861742056" ref="histopathology"/>
+    <file name="our-team.css" crc="434247118" ref="our-team"/>
+    <file name="microbiology.css" crc="4035207179" ref="microbiology"/>
+    <file name="hematology.css" crc="4271622483" ref="hematology"/>
+    <file name="home.css" crc="4141897366" ref="home"/>
+    <file name="molecolar-biology.css" crc="528701545" ref="molecolar-biology"/>
+    <file name="biochemistry.css" crc="4108790873" ref="biochemistry"/>
+    <file name="about-us.css" crc="4256322939" ref="about-us"/>
+    <file name="clinical-pathology.css" crc="515109868" ref="clinical-pathology"/>
+    <file name="immunology.css" crc="3771254062" ref="immunology"/>
+    <file name="index.css" crc="469708656" ref="index"/>
+    <file name="sero---virology.css" crc="4173041934" ref="sero---virology"/>
+    <file name="gallery.css" crc="4013779658" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="513632563" ref="gallery"/>
+    <file name="cytology.css" crc="513081338" ref="cytology"/>
+    <file name="contact.css" crc="4245516283" ref="contact"/>
+    <file name="nomq_contact.css" crc="303968231" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="medicare-lab-services-2020.xls" crc="117687396" seo="true" mt="1608791545000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="museutils.js" crc="3939489907" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="whatinput.js" crc="86476730" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="webpro.js" crc="3856315280" ref="home:about-us:gallery:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="home:about-us:gallery:contact"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="home:about-us:gallery:contact"/>
+    <file name="touchswipe.js" crc="3888935200" ref="home:about-us:gallery:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="require.js" crc="4177726516" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="gallery:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3912011798" ref="home"/>
+    <file name="logomedicare-u307-fr.jpg" crc="4280435590" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology"/>
+    <file name="phone-grey.png" crc="21956100" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="phone32.png" crc="3946229483" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="mail-grey.png" crc="4232297979" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="dribble.jpg" crc="3900312861" seo="true" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="facebook.jpg" crc="3814358492" seo="true" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="linkedin.jpg" crc="4032340596" seo="true" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="pinterest.jpg" crc="340003248" seo="true" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="462041627" seo="true" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="greensrip.jpg" crc="380491476" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="1herodd.jpg" crc="433195491" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="medicaretestlist.jpg" crc="3804177213" ref="home:service">
+      <caption webpage="service" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology:index">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="packeges.jpg" crc="300606538" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="nurse.jpg" crc="363383488" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="hematology.jpg" crc="3952983499" ref="home:hematology">
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="biochemi.jpg" crc="464294088" ref="home:biochemistry">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="immunologyd.jpg" crc="254838322" ref="home:immunology">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="virology-master.jpg" crc="167382934" ref="home:sero---virology">
+      <caption webpage="home" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+    </file>
+    <file name="cytology.jpg" crc="176906743" ref="home:cytology">
+      <caption webpage="home" alt=""/>
+      <caption webpage="cytology" alt=""/>
+    </file>
+    <file name="histopathology.jpg" crc="3664592" ref="home:histopathology">
+      <caption webpage="home" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+    </file>
+    <file name="microbio-580_0.jpg" crc="473391703" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="molecular bio.jpg" crc="95799306" ref="home:molecolar-biology">
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="clinical-pathology.jpg" crc="3837326190" ref="home:clinical-pathology">
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="7060616_preview.png" crc="337538459" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="dfdfdf-crop-u20416.jpg" crc="4112511658" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="home:gallery:contact:our-team"/>
+    <file name="fgfg-crop-u20709.jpg" crc="4272313528" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="fggg-crop-u20729.jpg" crc="309890373" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="hrg-crop-u20749.jpg" crc="4192556319" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="home"/>
+    <file name="hero3.jpg" crc="136481930" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="cer1.jpg" crc="3935958568" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="1rrrrr.jpg" crc="171305366" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="2rrrrr.jpg" crc="72819972" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="logomedicare.jpg" crc="433633535" ref="home:about-us:service:gallery:contact:our-team:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+    </file>
+    <file name="u1308-13.png" crc="3762648044" ref="about-us"/>
+    <file name="img20201021125815-u1323-fr.jpg" crc="401287790" ref="about-us"/>
+    <file name="s1-u20258-a-fr.jpg" crc="4216024973" ref="about-us"/>
+    <file name="s2-u20257-a-fr.jpg" crc="526625860" ref="about-us"/>
+    <file name="s3.jpg" crc="3837112456" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u21413-32.png" crc="3759244585" ref="about-us"/>
+    <file name="apex-360-zenaafemx44-unsplash.jpg" crc="515433462" ref="service:hematology:biochemistry:immunology:sero---virology:cytology:histopathology:microbiology:molecolar-biology:clinical-pathology">
+      <caption webpage="service" alt=""/>
+      <caption webpage="sero---virology" alt=""/>
+      <caption webpage="hematology" alt=""/>
+      <caption webpage="clinical-pathology" alt=""/>
+      <caption webpage="molecolar-biology" alt=""/>
+      <caption webpage="microbiology" alt=""/>
+      <caption webpage="cytology" alt=""/>
+      <caption webpage="biochemistry" alt=""/>
+      <caption webpage="histopathology" alt=""/>
+      <caption webpage="immunology" alt=""/>
+    </file>
+    <file name="vitros-eciq.jpg" crc="4182371059" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="erba.jpg" crc="3896254024" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="easylyte.jpg" crc="381183955" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="em200.jpg" crc="458435407" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="bs230.jpg" crc="120208778" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="urogb120.jpg" crc="509458441" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="hemax-530-500x500.jpg" crc="4211557445" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="15077883390cellenium-jr-30.jpg" crc="3834090803" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="1.jpg" crc="517457518" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="2.jpg" crc="369280603" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="3.jpg" crc="100047185" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="4.jpg" crc="296311603" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3908628138" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="6.jpg" crc="255366038" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="7.jpg" crc="327489089" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="8.jpg" crc="448479696" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3944295235" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="10.jpg" crc="509037729" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="11.jpg" crc="4272951174" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13.jpg" crc="4251095798" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="14.jpg" crc="398197625" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="15.jpg" crc="4118459724" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="16.jpg" crc="3989286728" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="17.jpg" crc="211097625" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="18.jpg" crc="222217805" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="20.jpg" crc="3831104806" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img20201021125825.jpg" crc="364194806" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img20201021125920.jpg" crc="49791059" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hrg-u21366-fr.jpg" crc="310732802" ref="gallery"/>
+    <file name="phone32-u1843-fr.png" crc="4068654033" ref="gallery"/>
+    <file name="logomedicare-u1861-fr.jpg" crc="3887853122" ref="gallery"/>
+    <file name="greensrip-u1860-fr.jpg" crc="507312901" ref="gallery"/>
+    <file name="img20201021125916-u6226-fr.jpg" crc="3875310436" ref="gallery"/>
+    <file name="img20201021125837-u6236-fr.jpg" crc="236789888" ref="gallery"/>
+    <file name="img20201021125847-u6242-fr.jpg" crc="19695969" ref="gallery"/>
+    <file name="img20201021125931-u6248-fr.jpg" crc="4000907095" ref="gallery"/>
+    <file name="img20201021125815-u6254-fr.jpg" crc="4038466727" ref="gallery"/>
+    <file name="img20201021130047-u6260-fr.jpg" crc="4232233547" ref="gallery"/>
+    <file name="img20201021125825-u21364-fr.jpg" crc="4070619040" ref="gallery"/>
+    <file name="img20201021125920-u21365-fr.jpg" crc="499122214" ref="gallery"/>
+    <file name="logomedicare-u645-fr.jpg" crc="488945781" ref="contact"/>
+    <file name="phone-grey-u626-fr.png" crc="4174199938" ref="contact"/>
+    <file name="science-in-hd-p9rn0whtbty-unsplash-u7237-fr.png" crc="269931951" ref="our-team"/>
+    <file name="corner.png" crc="158888606" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="aswani.jpg" crc="471942169" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="u20834-25.png" crc="4038696630" ref="our-team"/>
+    <file name="u7216.png" crc="490758498" ref="our-team"/>
+    <file name="u7216-r.png" crc="292685167" ref="our-team"/>
+    <file name="u20837-7.png" crc="3902693524" ref="our-team"/>
+    <file name="u7185.png" crc="3987929208" ref="our-team"/>
+    <file name="u7185-r.png" crc="3833551769" ref="our-team"/>
+    <file name="u7190.png" crc="208024278" ref="our-team"/>
+    <file name="u7190-r.png" crc="6596866" ref="our-team"/>
+    <file name="u7244.png" crc="3769473698" ref="our-team"/>
+    <file name="u7244-r.png" crc="3852988624" ref="our-team"/>
+    <file name="u7245.png" crc="25738848" ref="our-team"/>
+    <file name="u7245-r.png" crc="4103234050" ref="our-team"/>
+    <file name="u7267.png" crc="43598150" ref="our-team"/>
+    <file name="u7267-r.png" crc="4093033812" ref="our-team"/>
+    <file name="u7282.png" crc="4268856566" ref="our-team"/>
+    <file name="u7282-r.png" crc="3758422708" ref="our-team"/>
+    <file name="u7297.png" crc="366629881" ref="our-team"/>
+    <file name="u7297-r.png" crc="4256380263" ref="our-team"/>
+    <file name="microbio-580_0-u17436-fr.jpg" crc="3981865356" ref="microbiology"/>
+    <file name="logomedicarefinal.png" crc="71021447" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u24097-6.png" crc="3799529917" ref="index"/>
+  </folder>
+  <file name="home.html" crc="4100558232" seo="true" mt="1612681809803" redirect="true"/>
+  <file name="about-us.html" crc="3914712902" seo="true" mt="1612680540480" redirect="true"/>
+  <file name="service.html" crc="178714074" seo="true" mt="1612516246232" redirect="true"/>
+  <file name="gallery.html" crc="4179062748" seo="true" mt="1612681193466" redirect="true"/>
+  <file name="contact.html" crc="4029355234" seo="true" mt="1612681295835" redirect="true"/>
+  <file name="our-team.html" crc="203892405" seo="true" mt="1612681311524" redirect="true"/>
+  <file name="hematology.html" crc="3800574852" seo="true" mt="1612462925878" redirect="true"/>
+  <file name="biochemistry.html" crc="523727290" seo="true" mt="1612462925832" redirect="true"/>
+  <file name="immunology.html" crc="4228675835" seo="true" mt="1612462925873" redirect="true"/>
+  <file name="sero---virology.html" crc="3865718753" seo="true" mt="1612462925838" redirect="true"/>
+  <file name="cytology.html" crc="4126422186" seo="true" mt="1612462925809" redirect="true"/>
+  <file name="histopathology.html" crc="4164051289" seo="true" mt="1612462925866" redirect="true"/>
+  <file name="microbiology.html" crc="4042476554" seo="true" mt="1612462925805" redirect="true"/>
+  <file name="molecolar-biology.html" crc="4155601855" seo="true" mt="1612462925853" redirect="true"/>
+  <file name="clinical-pathology.html" crc="4101569199" seo="true" mt="1612462925876" redirect="true"/>
+  <file name="index.html" crc="180126821" seo="true" mt="1612679708634" redirect="true"/>
+</manifest>
